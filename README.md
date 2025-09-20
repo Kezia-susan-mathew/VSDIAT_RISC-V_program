@@ -18,7 +18,7 @@ $ sudo make install
 <img width="575" alt="yosys" src="installation_images/yosys_img.png">
 
 
-## Iverilog
+## iverilog
 ```
 $ sudo apt-get install iverilog
 ```
