@@ -4,11 +4,7 @@
 	
 # Day 0 - Tools Installation
 ## Yosys-RTL Synthesis Tool
-<details>
-<summary><b>Purpose:</b> Converts RTL code into gate-level representations.</summary>
-</details>
-##
-```bash
+```
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys 
 $ sudo apt install make
@@ -23,19 +19,13 @@ $ sudo make install
 
 
 ## iverilog-Verilog simulator
-<details>
-<summary><b>Purpose:</b> Compiles and simulates Verilog designs for functional verification.</summary>
-</details>
-```bash
+```
 $ sudo apt-get install iverilog
 ```
 <img width="575" alt="yosys" src="installation_images/iverilog_img.png">
 
 ## GTKWave-Waveform viewer
-<details>
-<summary><b>Purpose:</b> Analyzes and visualizes simulation waveforms for debugging.</summary>
-</details>
-```bash
+```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
