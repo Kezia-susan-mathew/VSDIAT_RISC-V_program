@@ -1,1 +1,33 @@
 # VSDIAT_RISC-V_program
+<details>
+	<summary>Day 0 - Tools Installation </summary>
+	
+# Day 0 - Tools Installation
+## Yosys
+```
+$ git clone https://github.com/YosysHQ/yosys.git
+$ cd yosys 
+$ sudo apt install make
+$ sudo apt-get install build-essential clang bison flex \
+    libreadline-dev gawk tcl-dev libffi-dev git \
+    graphviz xdot pkg-config python3 libboost-system-dev \
+    libboost-python-dev libboost-filesystem-dev zlib1g-dev
+$ make 
+$ sudo make install
+```
+<img width="575" alt="yosys" src="https://github.com/">
+
+## Iverilog
+```
+$ sudo apt-get install iverilog
+```
+![Alt Text](yosys_img.png)
+
+## GTKWave
+```
+$ sudo apt update
+$ sudo apt install gtkwave
+```
+![Alt Text](gtkwave_img.png)
+
+</details>
