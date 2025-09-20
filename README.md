@@ -15,7 +15,8 @@ $ sudo apt-get install build-essential clang bison flex \
 $ make 
 $ sudo make install
 ```
-![Alt Text](yosys_img.png)
+<img width="575" alt="yosys" src="https://github.com/">
+
 
 ## Iverilog
 ```
