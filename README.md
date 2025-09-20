@@ -22,14 +22,14 @@ $ sudo make install
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="575" alt="yosys" src="iverilog_img.png")
+<img width="575" alt="yosys" src="iverilog_img.png">
 
 ## GTKWave
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="575" alt="yosys" src="gtkwave_img.png")
+<img width="575" alt="yosys" src="gtkwave_img.png">
 
 
 </details>
