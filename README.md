@@ -15,21 +15,21 @@ $ sudo apt-get install build-essential clang bison flex \
 $ make 
 $ sudo make install
 ```
-<img width="575" alt="yosys" src="yosys_img.png">
+<img width="575" alt="yosys" src="installation_images/yosys_img.png">
 
 
 ## Iverilog
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="575" alt="yosys" src="iverilog_img.png">
+<img width="575" alt="yosys" src="installation_images/iverilog_img.png">
 
 ## GTKWave
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="575" alt="yosys" src="gtkwave_img.png">
+<img width="575" alt="yosys" src="installation_images/gtkwave_img.png">
 
 
 </details>
