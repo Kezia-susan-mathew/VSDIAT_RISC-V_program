@@ -7,6 +7,7 @@
 <details>
 <summary><b>Purpose:</b> Converts RTL code into gate-level representations.</summary>
 </details>
+##
 ```bash
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys 
